@@ -13,5 +13,8 @@ A while ago, I wrote a script to configure *Fedora* called [Bespoke](https://git
  - Switch into the cloned directory using `cd ./bender/`
  - Remember to make the script executable with `chmod +x bender.sh`
 
+## Using Fedora?
+This script has a Fedora-oriented version called [Bespoke](https://github.com/seangalie/bespoke) for Fedora 40 and 41 installations.
+
 ## License
 *Bender* is released under the [MIT License](https://opensource.org/licenses/MIT).
